@@ -26,32 +26,382 @@ References
 Readings by Class Session
 -------------------------
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Metric spaces and topology | \[Billingsley\]: Appendix M1-M10. |
-| 2 | Large deviations for i.i.d. random variables |  {{< br >}}{{< br >}} \[Shwartz and Weiss\]: Chapter 0. This is non-technical introduction to the field which describes motivation and various applications of the large deviations theory. {{< br >}}{{< br >}} \[Dembo and Zeitouni\]: Chapter 2.2. {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Large deviations theory {{< br >}}{{< br >}} Cramér's theorem {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Applications of the large deviation technique | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Extension of LD to ℝ_d_ and dependent process {{< br >}}{{< br >}} Gärtner-Ellis theorem {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Introduction to Brownian motion |  {{< br >}}{{< br >}} \[Resnick\]: Sections 6.1, and 6.4 from chapter 6. {{< br >}}{{< br >}} \[Durrett\]: Section 7.1. {{< br >}}{{< br >}} \[Billingsley\]: Chapter 8. {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} The reflection principle {{< br >}}{{< br >}} The distribution of the maximum {{< br >}}{{< br >}} Brownian motion with drift {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Resnick\]: Sections 6.5, and 6.8 from chapter 6. {{< br >}}{{< br >}} \[Durrett\]: Sections 7.3, and 7.4. {{< br >}}{{< br >}} \[Billingsley\]: Section 9. {{< br >}}{{< br >}}  |
-| 8 | Quadratic variation property of Brownian motion | \[Resnick\]: Sections 6.11, and 6.12 from chapter 6. |
-| 9 | Conditional expectations, filtration and martingales | \[Durrett\]: Section 4.1, and 4.2. |
-| 10 | Martingales and stopping times I | \[Durrett\]: Chapter 4. |
-| 11 |  {{< br >}}{{< br >}} Martingales and stopping times II {{< br >}}{{< br >}} Martingale convergence theorem {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Durrett\]: Chapter 4. {{< br >}}{{< br >}} Grimmett, Geoffrey R., and David R. Stirzaker. Section 7.8 in _Probability and Random Processes_. 3rd ed. Oxford University Press, 2001. ISBN: 9780198572220. {{< br >}}{{< br >}}  |
-| 12 | Martingale concentration inequalities and applications | &nbsp; |
-| 13 | Concentration inequalities and applications | &nbsp; |
-| 14 | Introduction to Ito calculus | \[Karatzas and Shreve\]: Chapter I. |
-| 15 | Ito integral for simple processes |  {{< br >}}{{< br >}} \[Karatzas and Shreve\] {{< br >}}{{< br >}} \[Øksendal\]: Chapter III. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Mid-Term Exam**{{< /td-colspan >}} |||
-| 16 | Definition and properties of Ito integral |  {{< br >}}{{< br >}} \[Karatzas and Shreve\] {{< br >}}{{< br >}} \[Øksendal\]: Chapter III. {{< br >}}{{< br >}}  |
-| 17 |  {{< br >}}{{< br >}} Ito process {{< br >}}{{< br >}} Ito formula {{< br >}}{{< br >}}  | \[Øksendal\]: Chapter IV. |
-| 18 | Integration with respect to martingales | \[Øksendal\]: Chapters III, IV, and VIII |
-| 19 | Applications of Ito calculus to financial economics | Duffie, Darrell. Dynamic Asset Pricing Theory. Princeton University Press, 2001. ISBN: 9780691090221. \[Preview with [Google Books](http://books.google.com/books?id=f2Wv-LDpsoUC&printsec=frontcover)\] |
-| 20 | Introduction to the theory of weak convergence |  {{< br >}}{{< br >}} \[Billingsley\]: Chapter 1. Section 2. {{< br >}}{{< br >}}  |
-| 21 | Functional law of large numbers Construction of the Wiener measure | \[Billingsley\]: Chapter 2. Section 8. |
-| 22 |  {{< br >}}{{< br >}} Skorokhod mapping theorem {{< br >}}{{< br >}} Reflected Brownian motion {{< br >}}{{< br >}}  | \[Chen and Yao\]: Chapter 6. |
-| {{< td-colspan 3 >}}**Final Exam**{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Metric spaces and topology
+{{< tdclose >}}
+{{< tdopen >}}
+\[Billingsley\]: Appendix M1-M10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Large deviations for i.i.d. random variables
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Shwartz and Weiss\]: Chapter 0. This is non-technical introduction to the field which describes motivation and various applications of the large deviations theory.
+
+\[Dembo and Zeitouni\]: Chapter 2.2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Large deviations theory
+
+Cramér's theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of the large deviation technique
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Extension of LD to ℝ_d_ and dependent process
+
+Gärtner-Ellis theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Brownian motion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Resnick\]: Sections 6.1, and 6.4 from chapter 6.
+
+\[Durrett\]: Section 7.1.
+
+\[Billingsley\]: Chapter 8.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The reflection principle
+
+The distribution of the maximum
+
+Brownian motion with drift
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Resnick\]: Sections 6.5, and 6.8 from chapter 6.
+
+\[Durrett\]: Sections 7.3, and 7.4.
+
+\[Billingsley\]: Section 9.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Quadratic variation property of Brownian motion
+{{< tdclose >}}
+{{< tdopen >}}
+\[Resnick\]: Sections 6.11, and 6.12 from chapter 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Conditional expectations, filtration and martingales
+{{< tdclose >}}
+{{< tdopen >}}
+\[Durrett\]: Section 4.1, and 4.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Martingales and stopping times I
+{{< tdclose >}}
+{{< tdopen >}}
+\[Durrett\]: Chapter 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Martingales and stopping times II
+
+Martingale convergence theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Durrett\]: Chapter 4.
+
+Grimmett, Geoffrey R., and David R. Stirzaker. Section 7.8 in _Probability and Random Processes_. 3rd ed. Oxford University Press, 2001. ISBN: 9780198572220.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Martingale concentration inequalities and applications
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Concentration inequalities and applications
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Ito calculus
+{{< tdclose >}}
+{{< tdopen >}}
+\[Karatzas and Shreve\]: Chapter I.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Ito integral for simple processes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Karatzas and Shreve\]
+
+\[Øksendal\]: Chapter III.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Mid-Term Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Definition and properties of Ito integral
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Karatzas and Shreve\]
+
+\[Øksendal\]: Chapter III.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ito process
+
+Ito formula
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Øksendal\]: Chapter IV.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Integration with respect to martingales
+{{< tdclose >}}
+{{< tdopen >}}
+\[Øksendal\]: Chapters III, IV, and VIII
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of Ito calculus to financial economics
+{{< tdclose >}}
+{{< tdopen >}}
+Duffie, Darrell. Dynamic Asset Pricing Theory. Princeton University Press, 2001. ISBN: 9780691090221. \[Preview with [Google Books](http://books.google.com/books?id=f2Wv-LDpsoUC&printsec=frontcover)\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the theory of weak convergence
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Billingsley\]: Chapter 1. Section 2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Functional law of large numbers Construction of the Wiener measure
+{{< tdclose >}}
+{{< tdopen >}}
+\[Billingsley\]: Chapter 2. Section 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Skorokhod mapping theorem
+
+Reflected Brownian motion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Chen and Yao\]: Chapter 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Final Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Supplemental references
 -----------------------

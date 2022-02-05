@@ -45,29 +45,341 @@ Your grade is based on the in-class midterm exam, take home final exam, and home
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Metric spaces and topology | &nbsp; |
-| 2 | Large deviations for i.i.d. random variables | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Large deviations theory {{< br >}}{{< br >}} Cramér's theorem {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Applications of the large deviation technique | HW 1 due |
-| 5 |  {{< br >}}{{< br >}} Extension of LD to ℝ_d_ and dependent process {{< br >}}{{< br >}} Gärtner-Ellis theorem {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Introduction to Brownian motion | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} The reflection principle {{< br >}}{{< br >}} The distribution of the maximum {{< br >}}{{< br >}} Brownian motion with drift {{< br >}}{{< br >}}  | &nbsp; |
-| 8 | Quadratic variation property of Brownian motion | HW 2 due |
-| 9 | Conditional expectations, filtration and martingales | &nbsp; |
-| 10 | Martingales and stopping times I | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Martingales and stopping times II {{< br >}}{{< br >}} Martingale convergence theorem {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Martingale concentration inequalities and applications | &nbsp; |
-| 13 | Concentration inequalities and applications | HW 3 due |
-| 14 | Introduction to Ito calculus | &nbsp; |
-| 15 | Ito integral for simple processes | &nbsp; |
-| {{< td-colspan 3 >}}**Midterm Exam**{{< /td-colspan >}} |||
-| 16 | Definition and properties of Ito integral | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Ito process {{< br >}}{{< br >}} Ito formula {{< br >}}{{< br >}}  | HW 4 due |
-| 18 | Integration with respect to martingales | &nbsp; |
-| 19 | Applications of Ito calculus to financial economics | &nbsp; |
-| 20 | Introduction to the theory of weak convergence | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Functional law of large numbers {{< br >}}{{< br >}} Construction of the Wiener measure {{< br >}}{{< br >}}  | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} Skorokhod mapping theorem {{< br >}}{{< br >}} Reflected Brownian motion {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**Final Exam**{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Metric spaces and topology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Large deviations for i.i.d. random variables
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Large deviations theory
+
+Cramér's theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of the large deviation technique
+{{< tdclose >}}
+{{< tdopen >}}
+HW 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Extension of LD to ℝ_d_ and dependent process
+
+Gärtner-Ellis theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Brownian motion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The reflection principle
+
+The distribution of the maximum
+
+Brownian motion with drift
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Quadratic variation property of Brownian motion
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Conditional expectations, filtration and martingales
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Martingales and stopping times I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Martingales and stopping times II
+
+Martingale convergence theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Martingale concentration inequalities and applications
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Concentration inequalities and applications
+{{< tdclose >}}
+{{< tdopen >}}
+HW 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Ito calculus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Ito integral for simple processes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Midterm Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Definition and properties of Ito integral
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ito process
+
+Ito formula
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+HW 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Integration with respect to martingales
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of Ito calculus to financial economics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the theory of weak convergence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Functional law of large numbers
+
+Construction of the Wiener measure
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Skorokhod mapping theorem
+
+Reflected Brownian motion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Final Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
