@@ -40,7 +40,7 @@ SOLUTIONS
 [Problem set 3 (PDF)]({{< baseurl >}}/resources/mit15_070jf13_homework3)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem set 3 solutions (PDF)]({{< baseurl >}}/resources/mit15_070jf13_pset3_sol)
+[Problem set 3 solutions (PDF)]({{< baseurl >}}/resources/mit15_070jf13_pset3_sol)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ SOLUTIONS
 [Problem set 4 (PDF)]({{< baseurl >}}/resources/mit15_070jf13_homework4)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem set 4 solutions (PDF)]({{< baseurl >}}/resources/mit15_070jf13_pset4_sol)
+[Problem set 4 solutions (PDF)]({{< baseurl >}}/resources/mit15_070jf13_pset4_sol)
 {{< tdclose >}}
 
 {{< trclose >}}
