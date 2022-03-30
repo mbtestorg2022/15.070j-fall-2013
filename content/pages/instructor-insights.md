@@ -27,9 +27,9 @@ Curriculum Information
 
 Any one of the following courses:
 
-*   [_6.431 Applied Probability_](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/)
+*   [_6.431 Applied Probability_](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006)
 *   [_15.085J Fundamentals of Probability_](/courses/6-436j-fundamentals-of-probability-fall-2018)
-*   _18.100 Real Analysis ([18.100A](/courses/18-100a-introduction-to-analysis-fall-2012/), [18.100B](/courses/18-100b-analysis-i-fall-2010/), or [18.100C](/courses/18-100c-real-analysis-fall-2012/))  
+*   _18.100 Real Analysis ([18.100A](/courses/18-100a-introduction-to-analysis-fall-2012), [18.100B](/courses/18-100b-analysis-i-fall-2010), or [18.100C](/courses/18-100c-real-analysis-fall-2012))  
     _
 
 ### Requirements Satisfied
